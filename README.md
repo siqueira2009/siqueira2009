@@ -105,8 +105,6 @@
     />
 </a>
 
----
-
 ![Snake animation](https://raw.githubusercontent.com/siqueira2009/siqueira2009/output/github-contribution-grid-snake-dark.svg)
 
 </div>
