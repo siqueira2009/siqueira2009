@@ -12,7 +12,7 @@
 
 🏫 Atualmente curso o Ensino Médio com técnico em Desenvolvimento de Sistemas na ETEC Bento Quirino (Campinas/SP), onde venho desenvolvendo uma base sólida em lógica computacional, estruturas de programação e desenvolvimento de aplicações.
 
-💻 Já tenho experiência e conhecimento em HTML, CSS e JavaScript e o básico de C99. Também tenho iniciado meus estudos em Java e React. Iniciei meus estudos sobre programação em 2020, quando fui introduzido ao HTML e CSS pelo meu pai. Desde então, fiquei apaixonado por esta área e pretendo segui-lá.
+💻 Já tenho experiência e conhecimento em HTML, CSS e JavaScript e o básico de C99. Também tenho iniciado meus estudos em Java e React. Iniciei meus estudos sobre programação em 2020, quando fui introduzido ao HTML e CSS pelo meu pai. Desde então, fiquei apaixonado por esta área e pretendo segui-la.
 
 </div>
 
