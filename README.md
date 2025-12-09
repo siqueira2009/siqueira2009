@@ -37,8 +37,6 @@
     </a>
 </p>
 
-## 📊 Minhas Estatísticas
-
 ![GitHub Metrics](https://raw.githubusercontent.com/siqueira2009/siqueira2009/main/github-metrics.svg)
 
 <div align="center">
