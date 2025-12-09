@@ -37,7 +37,9 @@
     </a>
 </p>
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=siqueira2009)](https://github.com/siqueira2009/github-readme-stats)
+## 📊 Minhas Estatísticas
+
+![GitHub Metrics](https://raw.githubusercontent.com/siqueira2009/siqueira2009/main/github-metrics.svg)
 
 <div align="center">
 
