@@ -12,12 +12,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu usuário
+          token: ${{ secrets.METRICS_TOKEN }}
           user: siqueira2009
           template: classic
           base: header, activity, community, repositories, metadata
-
-          # Tema
           config_timezone: America/Sao_Paulo
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -26,11 +24,8 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-
           plugin_stars: yes
           plugin_stars_limit: 4
-
           plugin_followup: yes
           plugin_followup_sections: repositories
-
           plugin_lines: yes
