@@ -12,7 +12,7 @@
 
 🏫 Atualmente curso o Ensino Médio com técnico em Desenvolvimento de Sistemas na ETEC Bento Quirino (Campinas/SP), onde venho desenvolvendo uma base sólida em lógica computacional, estruturas de programação e desenvolvimento de aplicações.
 
-💻 Já tenho experiência e conhecimento em HTML, CSS, JavaScript, Node.js, Express.js e o básico de C99. Também tenho iniciado meus estudos em Java, React e SQL. Iniciei meus estudos sobre programação em 2020, quando fui introduzido ao HTML e CSS pelo meu pai. Desde então, fiquei apaixonado por esta área e pretendo segui-la.
+💻 Já tenho experiência e conhecimento em HTML, CSS, JavaScript, Node.js, Express.js e o básico de C99, React Native e SQL. Também tenho iniciado meus estudos em Java, React e SQL. Iniciei meus estudos sobre programação em 2020, quando fui introduzido ao HTML e CSS pelo meu pai. Desde então, fiquei apaixonado por esta área e pretendo segui-la.
 
 </div>
 
@@ -30,41 +30,49 @@
     align="center" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="./assets/HTML.svg" 
 />
 <img 
     align="center" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="./assets/CSS.svg" 
 />
 <img 
     align="center" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="./assets/Javascript.svg" 
 />
 <img 
     align="center" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
+    alt="ExpressJS" 
+    title="ExpressJS"
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="./assets/Express.svg" 
+/>
+<img 
+    align="center" 
+    alt="Dpcker" 
+    title="Docker"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="./assets/Docker.svg" 
 />
 <img 
     align="center" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="./assets/Git.svg" 
 />
 <br>
 </div>
@@ -73,29 +81,34 @@
 
 <a href="mailto:lucas.s.siqueira.2009@gmail.com" target="_blank">
     <img 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        src="./assets/Gmail.svg"
         alt="Gmail"
+        width="50px"
+        style="padding-right: 10px;" 
     />
 </a>
 <a href="https://discord.gg/uJAvPJtT" target="_blank">
     <img 
-        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+        src="./assets/Discord.svg"
         alt="Discord"
+        width="50px"
+        style="padding-right: 10px;" 
     />
 </a>
 <a href="https://wa.me/5519990153963" target="_blank">
     <img 
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        src="./assets/WhatsApp.svg"
         alt="WhatsApp"
+        width="50px"
+        style="padding-right: 10px;" 
     />
 </a>
 <a href="https://www.linkedin.com/in/lucasdesouzasiqueira/" target="_blank">
     <img 
-        src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        src="./assets/LinkedIn.svg"
         alt="LinkedIn"
+        width="50px"
+        style="padding-right: 10px;" 
     />
 </a>
-
-![Snake animation](https://raw.githubusercontent.com/siqueira2009/siqueira2009/output/github-contribution-grid-snake-dark.svg)
-
 </div>
